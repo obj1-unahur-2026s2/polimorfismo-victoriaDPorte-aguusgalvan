@@ -21,7 +21,7 @@ Para ello tenemos a una tal Victoria D. Porte, que es nuestra carta secreta.
 Se requiere saber el presupuesto total que esta atleta necesita para encarar los juegos olímpicos.  
 De victoria se sabe su edad que al día de hoy es 23, su altura (al inicio, 170 cm), la disciplina que practica (arranca con tenis) y un elemento indispensable para su realización (de movida, la raqueta).
 
-Su presupuesto sale de la suma entre el presupuesto propio de victoria (se describe más abajo), más el presupuesto que demanda la disciplina que practica.
+Su presupuetoria (se describe más abajo), más el presupuesto que demanda la disciplina que practica.
 
 Las disciplinas existentes son:
 
